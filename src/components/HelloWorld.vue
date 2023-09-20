@@ -10,7 +10,7 @@
   
   <h1> Drew Allar</h1>
 <div class="btn-image">
-  <img src= https://th.bing.com/th/id/OIP.yghP1TEXURUPo9L6TeInkAHaD4?w=331&h=180&c=7&r=0&o=5&dpr=2.5&pid=1.7 alt = "Beaver Stadium">
+  <img src= "https://th.bing.com/th/id/OIP.yghP1TEXURUPo9L6TeInkAHaD4?w=331&h=180&c=7&r=0&o=5&dpr=2.5&pid=1.7" alt = "Beaver Stadium">
        <p> Drew Allar</p> 
 </div>
 
